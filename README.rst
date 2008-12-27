@@ -2,4 +2,4 @@
 Dark Campfire Style for Linkinus
 ================================
 
-.. image:: preview.jpg'';
+http://github.com/gregnewman/linkinus-campfire-dark/tree/master/preview.jpg
