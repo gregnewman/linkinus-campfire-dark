@@ -2,4 +2,4 @@
 Dark Campfire Style for Linkinus
 ================================
 
-image:: preview.jpg
+..image:: preview.jpg
